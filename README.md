@@ -22,3 +22,7 @@ The mobile version provides patients with a personalized and portable healthcare
 
 ## Figma Design
 [View the Prototype in Figma](https://www.figma.com/design/xuZ1K7ixBmUKMRxCZ2mQta/Future-Smart-Pharmacy-System-PHONEv?node-id=0-1&t=4bYAR6YFJi4I2yIf-1)
+
+# Phone Preview
+
+![Phone Preview](./fsps-phone.png)
