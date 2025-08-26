@@ -19,3 +19,6 @@ The mobile version provides patients with a personalized and portable healthcare
 5. Health Records (HC): Access and update medical history, allergies, and chronic conditions.
 
 6. Patient Communication (PC): Secure in-app messaging with pharmacists and providers.
+
+## Figma Design
+[View the Prototype in Figma](https://www.figma.com/design/xuZ1K7ixBmUKMRxCZ2mQta/Future-Smart-Pharmacy-System-PHONEv?node-id=0-1&t=4bYAR6YFJi4I2yIf-1)
